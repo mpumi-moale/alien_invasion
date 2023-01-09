@@ -4,6 +4,6 @@ class Settings():
     def __init__(self):
         """Initialize the games's settings."""
         # Screen settings
-        self.screen_width = 800
-        self.screen_height = 400
+        self.screen_width = 1000
+        self.screen_height = 600
         self.bg_color = (230, 230, 230)
