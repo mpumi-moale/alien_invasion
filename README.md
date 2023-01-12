@@ -1,3 +1,4 @@
+# Brief explaination of the Game
 In Alien Invasion, the player controls a ship that appears at
 the bottom center of the screen. The player can move the ship
 right and left using the arrow keys and shoot bullets using the
@@ -8,7 +9,7 @@ appears that moves faster than the previous fleet. If any alien hits
 the player’s ship or reaches the bottom of the screen, the player
 loses a ship. If the player loses three ships, the game ends.
 
-TO PLAY THE GAME:
+# TO PLAY THE GAME:
 # Installing pip on Linux and OS X
 sudo python get-pip.py
 
