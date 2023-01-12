@@ -10,10 +10,10 @@ the player’s ship or reaches the bottom of the screen, the player
 loses a ship. If the player loses three ships, the game ends.
 
 # TO PLAY THE GAME:
-# Installing pip on Linux and OS X
+## Installing pip on Linux and OS X
 sudo python get-pip.py
 
-# Installing pip on Windows
+## Installing pip on Windows
 python get-pip.py
 
 ## Installing Pygame on Linux
@@ -37,6 +37,6 @@ python -m pip install --user pygame-1.9.2a0-cp35-none-win32.whl
 
 ### Game instruction
 #### KEY ARROWS
-##### PRESS > to move to the right
-##### PRESS < to move to the left
-##### PRESS spacebar to shoot
+##### PRESS > TO MOVE TO THE RIGHT
+##### PRESS < TO MOVE TO THE LEFT
+##### PRESS spacebar TO SHOOT
