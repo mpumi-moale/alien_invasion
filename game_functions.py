@@ -143,9 +143,7 @@ def check_bullet_alien_collisions(ai_settings, screen, stats, score_board, ship,
         # Increase level.
         stats.level += 1
         score_board.prep_level()
-
-
-
+        
         create_fleet(ai_settings, screen, ship, aliens)
 
 def get_number_aliens_x(ai_settings, alien_width):
